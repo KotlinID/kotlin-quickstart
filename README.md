@@ -1,2 +1,2 @@
-# kotlin-quickstart
+# Kotlin QuickStart
 Quickstart Android Application Using Kotlin
