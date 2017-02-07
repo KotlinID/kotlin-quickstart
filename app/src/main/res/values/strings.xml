@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kotlin Quickstart</string>
+    <string name="btn_click">Click</string>
+    <string name="message">Hello Kotlin!</string>
 </resources>
